@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Data Transformation In Power Query**
 
-- 🌱 I’m currently learning **Phython and SQL**
+- 🌱 I’m currently learning📚  **Phython and SQL**
 
-- 📫 How to reach me **hargundahiya@gmail.com**
+- 📫 Reach me at 👉 **hargundahiya@gmail.com**
 
 - ⚡ When Not Working:  **You can find me playing cricket during my free time, fueling my love for sports and staying active. Sports have always been my escape, balancing my analytical mind and physical activity.**
 
