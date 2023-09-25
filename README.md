@@ -1,7 +1,7 @@
 [![MasterHead]( https://github.com/Dahi0005/Dahi0005/blob/main/AI_enabled_DA_1.png )]( )
 
 <h1 align="center">Hi 👋, I'm Hargun Dahiya</h1> 
-<h3 align="center">🔍 Problem-Solver with a Passion for Data 📊💡| Aspiring Data Analyst | Flinders University | </h3>
+<h3 align="center">🔍 Problem-Solver with a Passion for Data 📊💡| Computer Science | Innovation and Enterprise | Flinders University </h3>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Dahi0005/Dahi0005/blob/main/giphy.gif" > 
 
