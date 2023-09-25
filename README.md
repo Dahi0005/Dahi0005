@@ -13,7 +13,7 @@
 
 - 📫 Reach me at 👉 **hargundahiya@gmail.com**
 
-- ⚡ When Not Working:  **You can find me playing cricket during my free time, fueling my love for sports and staying active. Sports have always been my escape, balancing my analytical mind and physical activity.**
+- ⚡ Other Interest  **Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
