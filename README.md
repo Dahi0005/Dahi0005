@@ -13,7 +13,7 @@
 
 - 📫 Reach me at 👉 **hargundahiya@gmail.com**
 
-- ⚡ Other Interest  **Cricket**
+- ⚡ Other Interest  **:Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
